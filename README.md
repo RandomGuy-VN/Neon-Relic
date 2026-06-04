@@ -1,7 +1,7 @@
 # Neon Relic
 
 -------------
-**Đây là dự án vibecode game HTML được đạt top 1 trong tập 1 series vibecode của LCNQ**
+**Đây là dự án vibecode game HTML được đạt top 1 trong tập 1 series vibecode của LCNQ**.
 Phân loại: index.html: bản chính thức. index-legacy.html: bản legacy (bản dự thi)
 Prompt Deepseek (sử dụng bản V4 Pro):
 ```
