@@ -2,7 +2,7 @@
 
 -------------
 **Đây là dự án vibecode game HTML được đạt top 1 trong tập 1 series vibecode của LCNQ**.
-Phân loại: index.html: bản chính thức. index-legacy.html: bản legacy (bản dự thi)
+Đây là bản chính thức của mình.
 Prompt Deepseek (sử dụng bản V4 Pro):
 ```
 Bạn là một senior game developer, game designer, UI/UX designer và creative director. Hãy tạo một game **2D futuristic RPG** chất lượng cao, chạy độc lập trên web, không cần server, không cần cài package, chỉ dùng HTML + CSS + JavaScript thuần trong một file `index.html`.
