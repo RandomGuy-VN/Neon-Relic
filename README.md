@@ -2,7 +2,8 @@
 
 -------------
 **Đây là dự án vibecode game HTML được đạt top 1 trong tập 1 series vibecode của LCNQ**.
-Đây là bản chính thức của mình.
+
+Đây là bản chính thức của mình. Để lấy bản legacy (bài nộp chính thức), hãy tìm https://github.com/RandomGuy-VN/Neon-Relic-Legacy
 Prompt Deepseek (sử dụng bản V4 Pro):
 ```
 Bạn là một senior game developer, game designer, UI/UX designer và creative director. Hãy tạo một game **2D futuristic RPG** chất lượng cao, chạy độc lập trên web, không cần server, không cần cài package, chỉ dùng HTML + CSS + JavaScript thuần trong một file `index.html`.
